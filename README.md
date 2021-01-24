@@ -26,7 +26,7 @@ To move left side ? Raise your left hand.
 
 To move up ? Raise your hand up.
 
-To move down ? Raise  your hand down.
+To move down ? Raise  your hand down...
 
 Resources:
 
