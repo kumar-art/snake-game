@@ -186,7 +186,7 @@ function gameCycle() {
 
 
     /*video*/
-    const URL = "https://teachablemachine.withgoogle.com/models/6ODfouiNx/";
+    const URL = "https://teachablemachine.withgoogle.com/models/9xeu1LHlh/";
 
     let model, webcam, labelContainer, maxPredictions;
 
