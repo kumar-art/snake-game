@@ -32,8 +32,8 @@ Resources:
 
 Code for SnakeGame : http://zetcode.com/javascript/snake/
 
-Test TeachableMachine on your device : https://teachablemachine.withgoogle.com/models/6ODfouiNx/
+Test TeachableMachine on your device : https://teachablemachine.withgoogle.com/models/9xeu1LHlh/
 
 Heroku link : https://young-bayou-40646.herokuapp.com/index.html
 
-youtube link to watch video:
+youtube link to watch video:https://youtu.be/tPALyCdL0QQ
